@@ -1,3 +1,3 @@
 .idea
 .vscode
-echo -e ".idea\n.vscode" > .gitignore
+
